@@ -2,8 +2,6 @@
 
 A microservices e-commerce backend built with Go. Features async stock updates via RabbitMQ, JWT auth with role-based access, and a CLI demo tool.
 
-Built while learning backend development through [boot.dev](https://boot.dev).
-
 ## Table of Contents
 
 - [Architecture](#architecture)
